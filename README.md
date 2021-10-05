@@ -10,19 +10,10 @@ Cada pessoa deve ter ao menos 1 entrada.
 
 
 Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
+1. Alessandra Paulino Vecchi
+2. Sou cassada , tenho 7 filhos e moro em Palhoça SC.
+3. Simplismente Amor por TI.
 
 __O uso de Branches é obrigatório.__
 
-## Como Enviar?
 
-Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
-
-- [x] Enviar o link do Repositório;
-
-
-## Links
-
-Tenha certeza de enviar o link do repositório do Github.
